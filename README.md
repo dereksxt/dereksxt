@@ -6,7 +6,7 @@
 
 ***Sobre mí***
 
-Soy un chico de 19 años, actualmente estudiando **Desarrollo de Aplicaciones Web (DAW)**. Me gustaría convertirme en **desarrollador Full Stack**, aprendiendo y construyendo proyectos innovadores y creativos. Me destaco por mi actitud proactiva, aprendizaje constante y enfoque en buenas prácticas de desarrollo.
+Soy un chico de 19 años, actualmente estudiando **Desarrollo de Aplicaciones Web (DAW)**. Me gustaría convertirme en **Desarrollador Backend**, aprendiendo y construyendo proyectos innovadores y creativos. Me destaco por mi actitud proactiva, aprendizaje constante y enfoque en buenas prácticas de desarrollo.
 Actualmente busco oportunidades para seguir creciendo en proyectos reales, colaborar en equipos tecnológicos y enfrentar nuevos retos que impulsen mi evolución como desarrollador.  
     
 - 📫 Contáctame en: <a href="mailto:deerekst@gmail.com">deerekst@gmail.com</a>  
